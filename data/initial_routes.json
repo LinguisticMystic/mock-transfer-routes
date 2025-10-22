@@ -1,0 +1,9 @@
+[
+  { "id": 101, "from": "Munich Airport", "to": "Innsbruck", "price": 120.00, "currency": "EUR" },
+  { "id": 102, "from": "Zurich", "to": "Davos", "price": 210.00, "currency": "CHF" },
+  { "id": 103, "from": "Salzburg", "to": "Vienna", "price": 95.00, "currency": "EUR" },
+  { "id": 104, "from": "Prague", "to": "Brno", "price": 80.00, "currency": "EUR" },
+  { "id": 105, "from": "Milan", "to": "Verona", "price": 150.00, "currency": "EUR" },
+  { "id": 106, "from": "Innsbruck", "to": "Munich", "price": 115.00, "currency": "EUR" },
+  { "id": 107, "from": "Geneva", "to": "Chamonix", "price": 240.00, "currency": "CHF" }
+]
